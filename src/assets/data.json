@@ -5,6 +5,36 @@
         "icon": "linecons-star",
         "web": [
             {
+                "url": "https://wallhaven.cc/",
+                "logo": "assets/images/logos/wallhaven.png",
+                "title": "wallhaven",
+                "desc": "全球最大开源壁纸下载平台."
+            },
+            {
+                "url": "http://tool.liumingye.cn/music/?page=searchPage",
+                "logo": "assets/images/logos/myfree.png",
+                "title": "Myfree",
+                "desc": "最好用的免费无损音乐下载平台."
+            },
+            {
+                "url": "http://y.jsososo.com/",
+                "logo": "assets/images/logos/jsososo.png",
+                "title": "Jsososo",
+                "desc": " 最花里胡哨的音乐听歌平台."
+            },
+            {
+                "url": "http://t.15um.net/douyin.php",
+                "logo": "assets/images/logos/douyin.ico",
+                "title": "douyin_wechat",
+                "desc": " 抖音微信短视频去水印下载."
+            },
+            {
+                "url": "https://www.pianku.li/",
+                "logo": "assets/images/logos/pianku.png",
+                "title": "Pianku",
+                "desc": "你想看的片都在这里。"
+            },
+            {
                 "url": "https://dribbble.com/",
                 "logo": "assets/images/logos/dribbble.png",
                 "title": "Dribbble",
@@ -59,16 +89,16 @@
                 "desc": "发现新鲜有趣的产品"
             },
             {
-                "url": "https://www.youtube.com",
-                "logo": "assets/images/logos/youtube.png",
-                "title": "Youtube",
-                "desc": "全球最大的学习分享平台"
+                "url": "https://www.bilibili.com/",
+                "logo": "assets/images/logos/bilibili.svg",
+                "title": "Bilibili",
+                "desc": "全国最大的学习分享平台"
             },
             {
-                "url": "https://www.google.com",
-                "logo": "assets/images/logos/google.png",
-                "title": "Google",
-                "desc": "全球最大的UI学习分享平台"
+                "url": "https://github.com/",
+                "logo": "assets/images/logos/github.png",
+                "title": "Github",
+                "desc": "全球最大的开源代码学习分享平台"
             }
         ]
     },
@@ -77,6 +107,12 @@
         "en_name": "Information",
         "icon": "linecons-doc",
         "web": [
+            {
+                "url": "https://www.ithome.com/",
+                "logo": "assets/images/logos/itzhijia.png",
+                "title": "IT之家",
+                "desc": "IT之家，软媒旗下科技门户网站 - 爱科技，爱这里。"
+            },
             {
                 "url": "https://www.leiphone.com/",
                 "logo": "assets/images/logos/leiphone.png",
@@ -1281,7 +1317,7 @@
                     },
                     {
                         "url": "http://y.jsososo.com/",
-                        "logo": "assets/images/logos/myfree.png",
+                        "logo": "assets/images/logos/jsososo.png",
                         "title": "Jsososo",
                         "desc": " Jsososo Listening and Download."
                     }

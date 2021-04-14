@@ -39,16 +39,24 @@
           </li>
           <!-- 关于本站 -->
           <li class="submit-tag">
-            <router-link to="/about">
+              <button type="button" class="label btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">
               <i class="linecons-heart"></i>
               <span class="tooltip-blue">关于本站</span>
-              <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
-            </router-link>
+            </button>
+           
           </li>
         </ul>
       </div>
     </div>
 
+    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <About></About>
+        </div>
+      </div>
+    </div>
+    
     <div class="main-content">
       <nav class="navbar user-info-navbar" role="navigation">
         <ul class="user-info-menu left-links list-inline list-unstyled">
@@ -94,13 +102,16 @@
 <script>
 import WebItem from '../components/WebItem.vue'
 import Footer from '../components/Footer.vue'
+import About from './about.vue'
 import itemsData from '../assets/data.json'
+
 
 export default {
   name: 'Index',
   components: {
     WebItem,
-    Footer
+    Footer,
+    About
   },
   data() {
     return {
@@ -113,7 +124,7 @@ export default {
     }
   },
   created() {
-    this.lang = this.langList[0]
+    this.lang = this.langList[0];
   },
   methods: {
     transName(webItem) {

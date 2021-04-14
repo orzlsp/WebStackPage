@@ -21,6 +21,8 @@ const routes = [
 ]
 
 const router = new VueRouter({
+  // base: '/',  //如果项目根目录不为域名，则添加该行
+  mode: 'history',
   routes
 })
 

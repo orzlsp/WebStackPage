@@ -9,7 +9,7 @@
           </router-link>
         </div>
         <div class="navbar-mobile-clear"></div>
-        <a href="https://github.com/Anjaxs/WebStack-vue" target="_blank">
+        <a href="https://github.com/orzlsp/WebStackPage" target="_blank">
            <img style="position: absolute; top: 0; right: 0; border: 0;"
                src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
                alt="Fork me on GitHub">
@@ -65,14 +65,14 @@
                         <br />
                         <blockquote>
                           <p>
-                            这是一个公益项目，而且是<a href="https://github.com/WebStackPage/WebStackPage.github.io"> 开源 </a>
+                            这是一个公益项目，而且是<a href="https://github.com/orzlsp/WebStackPage"> 开源 </a>
                             <iframe src="https://ghbtns.com/github-btn.html?user=WebStackPage&repo=WebStackPage.github.io&type=star&count=true"
-                                    frameborder="0" scrolling="0" width="100px" height="20px"></iframe> 的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站
+                                    frameborder="0" scrolling="0" width="100px" height="20px"></iframe> 的。你也可以拿来制作自己的网址导航。是基于
                             <a href="http://www.viggoz.com">
                               <span class="label label-info" data-toggle="tooltip"
                                     data-placement="left" title=""
-                                    data-original-title="Hello I am a Tooltip">viggoz.com</span>
-                            </a>中的联系方式找到我，欢迎与我交流分享。
+                                    data-original-title="Hello I am a Tooltip">viggo</span>
+                            </a>这位Designer大神的GitHub Coding 出来的。欢迎与我交流分享  QQ：260692292。
                           </p>
                         </blockquote>
                       </div>
